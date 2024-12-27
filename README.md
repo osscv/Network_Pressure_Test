@@ -89,5 +89,5 @@ Under this license, if you use, modify, or distribute this software, you must:
 - Include copyright and license notices
 - Link to the original repository
 
-Original work by www.dkly.top,2024
-Repository: [[Your GitHub Repository URL]](https://github.com/osscv/Network_Pressure_Test)
+Original work by www.dkly.top | 2024
+Repository: https://github.com/osscv/Network_Pressure_Test

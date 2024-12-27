@@ -91,3 +91,114 @@ Under this license, if you use, modify, or distribute this software, you must:
 
 Original work by www.dkly.top | 2024
 Repository: https://github.com/osscv/Network_Pressure_Test
+
+
+# Disclaimer
+
+## ⚠️ PERSONAL LIABILITY DISCLAIMER ⚠️
+
+I, THE DEVELOPER OF THIS SOFTWARE, AM NOT RESPONSIBLE FOR:
+
+1. **ANY DAMAGES OR CONSEQUENCES** that may occur from using this tool, including but not limited to:
+   - Network outages or disruptions
+   - Excessive data charges
+   - Bandwidth overages
+   - Server costs
+   - Hardware damage
+   - Loss of service
+   - Legal consequences
+   - Any financial losses
+
+2. **HOW YOU USE THIS TOOL**
+   - I am not responsible for any misuse of this software
+   - I am not liable for any illegal activities conducted with this tool
+   - I do not endorse any malicious use of this software
+   - I take no responsibility for modified versions of this code
+
+3. **THIRD-PARTY ACTIONS**
+   - I am not responsible for how third parties may react to your use of this tool
+   - I am not liable for any actions taken by network administrators or service providers
+   - I take no responsibility for any account suspensions or service terminations
+
+## Important Notice
+
+This Network Bandwidth Pressure Testing Tool ("the Software") is provided for educational and testing purposes only. By using this Software, you acknowledge and agree to the following terms:
+
+## Usage Responsibility
+
+1. **Network Impact**
+   - This tool can generate significant network traffic
+   - You are solely responsible for any impact on your network or other users
+   - Be aware of and respect your network's bandwidth limitations
+   - Consider the potential impact on other network users before running tests
+
+2. **Data Usage Warning**
+   - The Software downloads large files repeatedly
+   - This may result in substantial data consumption
+   - Users with data caps should exercise extreme caution
+   - Monitor your data usage while using this tool
+
+3. **Server Consideration**
+   - Test servers may incur costs from bandwidth usage
+   - Excessive use may impact server performance
+   - Respect server operators and their resources
+   - Do not conduct sustained or abusive testing
+
+## Legal Considerations
+
+1. **Acceptable Use**
+   - Only test on networks you own or have explicit permission to test
+   - Obtain necessary authorizations before testing
+   - Do not use for denial of service attacks or malicious purposes
+   - Comply with all applicable laws and regulations
+
+2. **Liability**
+   - The Software is provided "AS IS" without warranty of any kind
+   - The developers are not responsible for any damages or consequences
+   - Users assume all risks associated with using this Software
+   - No guarantee of accuracy or reliability is provided
+
+3. **Third-Party Resources**
+   - Test nodes listed are third-party services
+   - We do not guarantee their availability or performance
+   - Users should verify the legitimacy of custom nodes
+   - Respect third-party terms of service
+
+## Best Practices
+
+1. **Before Testing**
+   - Inform relevant network administrators
+   - Check network policies and restrictions
+   - Verify available bandwidth capacity
+   - Choose appropriate testing parameters
+
+2. **During Testing**
+   - Monitor system and network performance
+   - Be prepared to stop tests if issues arise
+   - Respect fair usage policies
+   - Consider off-peak testing times
+
+3. **Security**
+   - Verify URLs before testing
+   - Do not test unknown or untrusted servers
+   - Be cautious with custom node submissions
+   - Keep the Software updated
+
+## Indemnification
+
+By using this Software, you agree to indemnify and hold harmless the developer, contributors, and any affiliated parties from any claims, damages, or expenses resulting from your use or misuse of the Software.
+
+## USE AT YOUR OWN RISK
+
+**BY DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU ARE USING IT ENTIRELY AT YOUR OWN RISK. THE DEVELOPER ACCEPTS NO RESPONSIBILITY OR LIABILITY WHATSOEVER.**
+
+## Updates
+
+This disclaimer may be updated without notice. Continued use of the Software implies acceptance of any changes.
+
+---
+
+Last Updated: December 27, 2024  
+For questions or concerns, please open an issue on the GitHub repository.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

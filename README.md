@@ -95,6 +95,24 @@ Repository: https://github.com/osscv/Network_Pressure_Test
 
 # Disclaimer
 
+## ⚠️ STRICT PROHIBITION OF MALICIOUS USE ⚠️
+
+THIS SOFTWARE IS **STRICTLY PROHIBITED** FOR:
+- DDoS (Distributed Denial of Service) attacks
+- DoS (Denial of Service) attacks
+- Network flooding attacks
+- Stress testing without authorization
+- CC (Command and Control) attacks
+- Any form of network attacks or malicious activities
+- Any attempts to overwhelm or disrupt services
+- Any form of cyber attacks
+- Any illegal network activities
+- Targeting individuals or organizations without explicit permission
+
+**VIOLATION OF THESE TERMS MAY RESULT IN LEGAL ACTION**
+
+The developer explicitly condemns and disclaims any use of this software for malicious purposes. This is a testing tool ONLY and should be used responsibly and ethically.
+
 ## ⚠️ PERSONAL LIABILITY DISCLAIMER ⚠️
 
 I, THE DEVELOPER OF THIS SOFTWARE, AM NOT RESPONSIBLE FOR:
@@ -191,6 +209,15 @@ By using this Software, you agree to indemnify and hold harmless the developer, 
 ## USE AT YOUR OWN RISK
 
 **BY DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT YOU ARE USING IT ENTIRELY AT YOUR OWN RISK. THE DEVELOPER ACCEPTS NO RESPONSIBILITY OR LIABILITY WHATSOEVER.**
+
+## Criminal Liability Notice
+
+The use of this Software for any malicious or illegal purposes may constitute a criminal offense under various local, state, national, and international laws. Users engaging in such activities may be subject to:
+- Criminal prosecution
+- Civil lawsuits
+- Monetary fines
+- Imprisonment
+- Other legal penalties as applicable
 
 ## Updates
 

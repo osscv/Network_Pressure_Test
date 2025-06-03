@@ -229,3 +229,6 @@ Last Updated: December 27, 2024
 For questions or concerns, please open an issue on the GitHub repository.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<a href="https://www.dkly.top/blog/category/sustainable-future-fusion-sff-apu" title="APU Sustainable Future Fusion" class="visually-hidden">APU Sustainable Future Fusion</a>
+<a href="https://www.dkly.top/" title="Khoo Lay Yang" class="visually-hidden">Khoo Lay Yang</a>
